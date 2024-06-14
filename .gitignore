@@ -1,0 +1,13 @@
+# Files created by Visual Studio to compile C++
+*.exe
+*.sh
+
+# Files created by compiling C++
+*.o
+*.cpp
+
+# vscode files
+/.vscode/**
+
+# Extra files
+*.txt
